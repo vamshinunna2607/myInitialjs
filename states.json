@@ -1,0 +1,47 @@
+[
+    {
+     "id": "01",
+     "stateName": "KANSAS",
+     "location" : "CENTRAL"
+ 
+ 
+     },
+    {
+     "id": "02",
+     "stateName": "NEYWORK",
+      "location" : "EAST"
+     
+     },
+    {
+     "id": "03",
+     "stateName": "CALIFORNIA",
+     "location" : "WEST"
+     
+     },
+      {
+     "id": "04",
+    "stateName": "ILLINOIS",
+    "location" : "EAST"
+     
+     },
+      {
+     "id": "05",
+    "stateName": "FLORIDA",
+    "location" : "EAST"
+     
+     },
+      {
+     "id": "06",
+    "stateName": "COLORADO",
+    "location" : "CENTRAL"
+     
+     },
+      {
+     "id": "07",
+    "stateName": "NEW JERSY",
+    "location" : "EAST"
+     
+     }
+     
+ ]
+ 
